@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Port Detector</string>
+    <string name="detect_port">Detect ADB Port</string>
+    <string name="port_label">ADB Port: </string>
+    <string name="detecting">Detecting...</string>
+    <string name="not_found">Port not found</string>
+</resources>
